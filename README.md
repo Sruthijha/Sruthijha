@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sruthijha :)
 
-Welcome to my GitHub profile! I’m currently pursuing a **Master's in Data Science (MS-DS)** at the University of Colorado Boulder. I enjoy turning data into meaningful insights and building projects that solve real-world problems.
+Welcome to my GitHub profile! I’m currently pursuing a **Master's in Data Science (MS-DS)** at the University of Colorado Boulder. I’m passionate about transforming data into meaningful insights and building projects that tackle real-world challenges.
 
-When I’m not knee-deep in data, I’m the kind of person who starts movies but rarely finishes them, grooves to music like it’s my side hustle, and sometimes stares at the sky wondering, *'When will the earth call it a day?'*. I love mixing creativity with logic and am always up for learning something new or solving unexpected problems.
+When I’m not knee-deep in data, I’m usually lost in music, sketching whatever pops into my head, battling it out in a game, or deep in conversation about anything from anime to philosophy. I love mixing creativity with logic and can’t resist learning something new or diving into unexpected problems.
 
 Think we’d click? Let’s connect and create something impactful together!
 
