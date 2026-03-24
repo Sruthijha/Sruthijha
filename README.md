@@ -13,10 +13,12 @@ If you enjoy thoughtful work, interesting challenges, and learning along the way
 ### 🛠️ Skills & Tools
 Some of the technologies I work with:
 
-- **Programming Languages:** Python, R, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
-- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch  
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI, Excel
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, RAG (Retrieval-Augmented Generation)
+- **Frameworks & Tools:** Streamlit, OpenAI API, Google APIs, Figma
+- **Databases:** MySQL, PostgreSQL
+- **Cloud Platforms:** AWS, GCP, Azure
 
 ---
 
