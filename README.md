@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Sruthijha :)
 
-Welcome to my GitHub! I’m a **Data Science graduate from the University of Colorado Boulder** and currently working as a **Data Intern at Goodie Bag**, where I turn raw data into insights that help products and teams make better decisions.
+Welcome to my GitHub! I’m a **Data Science graduate from the University of Colorado Boulder** and currently working at **Pfizer as an Extern**, where I turn raw data into insights that help products and teams make better decisions.
 
 I enjoy working at the intersection of data, strategy, and real-world impact - whether that’s cleaning messy datasets, exploring patterns, or translating analysis into something actionable.
 
